@@ -1,7 +1,5 @@
-# CS-310-Program-1
-This is the first program that I created for my CS-310 class.
-
-This was a program that I completed for my CS-310 class in school. I used Java and eclipse to make this program. I was suppose to create my own data structure that was a LinearList. The list had to be generic so that it could accept all data types. 
+# Generic Linear List
+This was a program that I completed for my data structures class in school. I used Java and eclipse to make this program. I was suppose to create my own data structure that was a LinearList. The list had to be generic so that it could accept all data types. 
 
 
 What I learned:
